@@ -2,11 +2,21 @@
 
 - 🔭 Today I work with Cloud Oracle, Azure and AWS focusing on Java, python and Linux development
 - 🌱 Studying mongoDB, PL/SQL, JavaScript
+- 🕶️ Dark Lord of the Code
+- 🛠️ Master of the Force.push()
+- 🌟 Conqueror of Bugs
+- 🪄 Sith Alchemist - Turning Coffee into Code
+- 🚀 Embrace the Dark Side of Development
+
+
 
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renansramos&show_icons=true&theme=shadow_red)
+
 ## 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renansramos&theme=shadow_red&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ##
 
 <div>  
@@ -36,5 +46,11 @@
 </picture>
 
 
+##
+
+<div align="center">
+  <img  alt="Renan-Csharp" height="200" width="200" src="https://media.giphy.com/media/26FL0ydLDEcARWY0g/giphy.gif)https://media.giphy.com/media/26FL0ydLDEcARWY0g/giphy.gif">
+</div>
+<p align="center" > #MayTheCodeBeWithYou #DarkSideDevelopment #EmpireFirst </p>
 
 
