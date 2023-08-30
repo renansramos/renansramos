@@ -1,4 +1,4 @@
-## Hi! i'm a Dev Coder Renan Ramos
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F70F0F&width=435&lines=Hi!+i'm+a+Dev+Renan+Ramos)](https://git.io/typing-svg)
 
 - 🔭 Today I work with Cloud Oracle, Azure and AWS focusing on Java, python and Linux development
 - 🌱 Studying mongoDB, PL/SQL, JavaScript
@@ -26,15 +26,13 @@
   <a href="https://api.whatsapp.com/send?phone=5511951765007&text=Ol%C3%A1,%20eu%20encontrei%20seu%20n%C3%BAmero%20atrav%C3%A9s%20do%20GitHub!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Renan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Renan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Renan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Renan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Renan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Renan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Renan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
-</div>
+
+## 🧑🏾‍💻 Programming | Markup Languages | Frameworks |  Libraries
+
+
+# https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,androidstudio,arduino,aws,azure,bootstrap,cpp,css,discord,docker,dotnet,eclipse,git,github,gradle,html,java,js,kubernetes,linux,mongodb,mysql,nodejs,postman,py,raspberrypi,react,selenium,tensorflow,visualstudio,vscode,)](https://skillicons.dev)
+
 
 ##
 
