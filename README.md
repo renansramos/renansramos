@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F70F0F&width=435&lines=Hi!+i'm+a+Dev+Renan+Ramos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F70F0F&width=435&lines=Hi+I'm+a+Full+Stack+Developer)](https://git.io/typing-svg)
 
 - 🔭 Today I work with Cloud Oracle, Azure and AWS focusing on Java, python and Linux development
 - 🌱 Studying mongoDB, PL/SQL, JavaScript
@@ -30,8 +30,8 @@
 ## 🧑🏾‍💻 Programming | Markup Languages | Frameworks |  Libraries
 
 
-# https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,androidstudio,arduino,aws,azure,bootstrap,cpp,css,discord,docker,dotnet,eclipse,git,github,gradle,html,java,js,kubernetes,linux,mongodb,mysql,nodejs,postman,py,raspberrypi,react,selenium,tensorflow,visualstudio,vscode,)](https://skillicons.dev)
+ 
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,aws,azure,bootstrap,cpp,css,discord,docker,dotnet,eclipse,git,github,gradle,html,java,js,kubernetes,linux,mongodb,mysql,nodejs,postman,py,raspberrypi,react,selenium,tensorflow,visualstudio,vscode,)](https://skillicons.dev)
 
 
 ##
